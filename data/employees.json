@@ -29,7 +29,7 @@
       "name": "Sneha Iyer",
       "skills": ["Python", "TensorFlow", "Machine Learning", "Data Science"],
       "experience_years": 5,
-      "projects": ["Fraud Detection", "Chatbot NLP", "Customer Segmentation"],
+      "projects": ["Fraud Detection", "Chatbot NLP", "Healthcare Dashboard","Customer Segmentation"],
       "availability": "available"
     },
     {
