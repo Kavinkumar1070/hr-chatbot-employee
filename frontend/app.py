@@ -7,8 +7,8 @@ st.set_page_config(page_title="HR Resource Query Chatbot", layout="wide")
 
 st.title("🤖 HR Resource Query Chatbot")
 
-st.sidebar.header("Choose Operation")
-choice = st.sidebar.radio('Operations',["Chat with HR Assistant", "Employee Search"])
+st.sidebar.header("List of Operation")
+choice = st.sidebar.radio('Choose operation',["Chat with HR Assistant", "Employee Search"])
 
 if choice == "Chat with HR Assistant":
     if "chat_history" not in st.session_state:
