@@ -29,12 +29,18 @@ The system is divided into two main components:
 ## Setup & Installation
  - Clone repository
  - create and activate a virtual environment
+    - python -m venv .venv
+    - .venv\\Scripts\\activate
  - create and install dependencies using requirement.txt file
+   - pip install -r requirements.txt
  - prepare data files - employees.json
  - configure credentials
  - write full code 
- - run fastapi backend
+ - run fastapi backend  
+   - uvicorn main:app --reload
  - run streamlit frontend
+   - cd frontend
+   - streamlit run app.py
 
 ## API Documentation 
 Base url - http://127.0.0.1:8000
