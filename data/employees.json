@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "skills": ["Python", "Django", "REST API", "PostgreSQL"],
+      "experience_years": 4,
+      "projects": ["E-commerce Backend", "API Development", "Database Optimization"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Priya Nair",
+      "skills": ["React", "JavaScript", "CSS", "UI/UX"],
+      "experience_years": 3,
+      "projects": ["Travel Booking Website", "UI Redesign", "Mobile UI"],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Rohan Verma",
+      "skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
+      "experience_years": 6,
+      "projects": ["Cloud Migration", "Infrastructure Automation", "DevOps Pipeline"],
+      "availability": "busy"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Iyer",
+      "skills": ["Python", "TensorFlow", "Machine Learning", "Data Science"],
+      "experience_years": 5,
+      "projects": ["Fraud Detection", "Chatbot NLP", "Customer Segmentation"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Aditya Gupta",
+      "skills": ["Flutter", "React Native", "iOS", "Android"],
+      "experience_years": 3,
+      "projects": ["Food Delivery App", "Social Media App", "Banking Mobile App"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "Meera Reddy",
+      "skills": ["Java", "Spring Boot", "Microservices", "Kafka"],
+      "experience_years": 7,
+      "projects": ["Payment Gateway", "Order Management", "Inventory System"],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Karan Malhotra",
+      "skills": ["Node.js", "Express", "MongoDB", "GraphQL"],
+      "experience_years": 5,
+      "projects": ["Chat Application", "Content Management", "API Gateway"],
+      "availability": "busy"
+    },
+    {
+      "id": 8,
+      "name": "Ishita Sen",
+      "skills": ["UI/UX", "Figma", "User Research", "Prototyping"],
+      "experience_years": 4,
+      "projects": ["Healthcare Dashboard", "Design System", "E-learning Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Arjun Patel",
+      "skills": ["C++", "Python", "Computer Graphics", "OpenGL"],
+      "experience_years": 6,
+      "projects": ["3D Rendering Engine", "Game Engine", "Simulation Software"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Nisha Menon",
+      "skills": ["Cybersecurity", "Penetration Testing", "Network Security"],
+      "experience_years": 5,
+      "projects": ["Security Audit", "Firewall Implementation", "Risk Assessment"],
+      "availability": "busy"
+    },
+    {
+      "id": 11,
+      "name": "Vikram Desai",
+      "skills": ["Data Analysis", "SQL", "Tableau", "Python"],
+      "experience_years": 4,
+      "projects": ["Sales Dashboard", "Customer Analytics", "BI Reports"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Ananya Singh",
+      "skills": ["Blockchain", "Solidity", "Smart Contracts", "Ethereum"],
+      "experience_years": 3,
+      "projects": ["NFT Marketplace", "Crypto Wallet", "DeFi Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 13,
+      "name": "Rajeev Kumar",
+      "skills": ["QA Testing", "Automation", "Selenium", "Java"],
+      "experience_years": 6,
+      "projects": ["Automation Framework", "Regression Testing", "Load Testing"],
+      "availability": "busy"
+    },
+    {
+      "id": 14,
+      "name": "Kavya Pillai",
+      "skills": ["Python", "NLP", "Transformers", "Chatbot Development"],
+      "experience_years": 5,
+      "projects": ["Voice Assistant", "Legal Document Analyzer", "Sentiment Analysis"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Siddharth Joshi",
+      "skills": ["Angular", "JavaScript", "TypeScript", "REST API"],
+      "experience_years": 4,
+      "projects": ["Banking Web App", "CRM Dashboard", "Insurance Portal"],
+      "availability": "available"
+    },
+    {
+      "id": 16,
+      "name": "Tanvi Choudhary",
+      "skills": ["Python", "scikit-learn", "Pandas", "Data Visualization"],
+      "experience_years": 3,
+      "projects": ["Predictive Analytics", "Customer Churn Model", "Sales Forecasting"],
+      "availability": "available"
+    },
+    {
+      "id": 17,
+      "name": "Aman Yadav",
+      "skills": ["Java", "Hibernate", "REST API", "MySQL"],
+      "experience_years": 5,
+      "projects": ["ERP System", "HRMS Portal", "E-learning Platform"],
+      "availability": "busy"
+    },
+    {
+      "id": 18,
+      "name": "Pooja Agarwal",
+      "skills": ["Big Data", "Hadoop", "Spark", "Scala"],
+      "experience_years": 6,
+      "projects": ["Recommendation System", "Clickstream Analysis", "ETL Pipelines"],
+      "availability": "available"
+    },
+    {
+      "id": 19,
+      "name": "Devansh Kapoor",
+      "skills": ["AI", "Deep Learning", "Computer Vision", "PyTorch"],
+      "experience_years": 5,
+      "projects": ["Face Recognition", "Medical Imaging AI", "Object Detection"],
+      "availability": "available"
+    },
+    {
+      "id": 20,
+      "name": "Neha Bansal",
+      "skills": ["Product Management", "Agile", "Roadmap Planning", "Analytics"],
+      "experience_years": 7,
+      "projects": ["Product Strategy", "Feature Launches", "Market Research"],
+      "availability": "busy"
+    }
+  ]
+}
